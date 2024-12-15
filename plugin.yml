@@ -1,0 +1,6 @@
+name: "Punished"
+version: 0.0.1
+main: "joaomsl\\punished\\Main"
+author: "João M."
+api: 5.23.0
+website: "https://github.com/joaomsl/punished-plugin"

@@ -1,0 +1,22 @@
+{
+    "name": "joaomsl/punished-plugin",
+    "type": "project",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "João M.",
+            "email": "dev.joaomarcoslima@gmail.com"
+        }
+    ],
+    "minimum-stability": "stable",
+    "autoload": {
+        "psr-4": {
+            "joaomsl\\punished\\": "src/joaomsl/punished/"
+        }
+    },
+    "require": {
+        "pocketmine/pocketmine-mp": "^5.23",
+        "sof3/libasynql": "^4.2",
+        "sof3/await-generator": "^3.6"
+    }
+}
